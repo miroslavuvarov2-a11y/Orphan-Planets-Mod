@@ -13,8 +13,8 @@ around a star, but wander around the galaxy alone.
 
 ## Installation
 
-1. Download the latest Zip file.
-2. Copy the mod files to the custom objects folder Universe Sandbox.
+1. Download the individual `.ubox` object files from this repository.
+2. Copy the `.ubox` files to the Universe Sandbox custom objects folder.
 3. Start the game and the objects will appear in the list of user objects.
 
 ## Compatibility
